@@ -1,4 +1,4 @@
-# TNetFoss
+# TDOSFoss
 
 A telnet server with virtual modems that acts as a fossil driver for MS-DOS BBS systems that only work with serial ports/modems and don't have an integrated telnet option.
 
